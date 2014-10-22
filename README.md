@@ -8,4 +8,8 @@ Laravel Wordpress Plugin - Integrates Laravel with Wordpress
 * $ cd src
 * $ composer dump-autoload
 * $ composer update
+* Start Coding
+
+Sample page at your-domain.com/hello-laravel (using twentyfourteen theme);
+
 
