@@ -12,7 +12,7 @@
 */
 
 
-Route::get('test/{id}', function()
+Route::get('hello-laravel', function()
 {
 	return View::make('hello');
 });
